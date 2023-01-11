@@ -1,0 +1,49 @@
+/*esto es un comentario dentro de una hoja de estilos
+dentro de css*/
+
+/*Con un asterisco usandolo de comodin puedo aplicar a todo el documento html alguna propiedad*/
+  *{
+    color:blueviolet;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 50px;
+    color:aqua;
+    /* como cada elemento se trabaja como una box
+    puedo darle diferentes propiedades a cada lado
+    de la BOX que encierra mi texto -ejemplo:
+    margin-top: 0px;
+    margin-left: 0px;*/
+
+}
+p{
+    color:tomato;
+    width: 300px;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  /*Propiedad ID para seleccionar un solo elemento y modificarlo*/
+    
+        #propiedad_id{ 
+            color: burlywood; 
+            font-family: verdana;
+            font-size: 20px;}
+/*CLASE EN CS para aplicar a multiples elementos*/
+
+.estaesmiclase {
+    color: black;
+    font-size: larger;
+    font-weight: 600px;
+}
+/*otra manera de modificar un elemento es buscando por ejemplo dentro de una seccion todos los elementos llamados por ejemplo h1*/
+
+section ul {font-style:italic;}
