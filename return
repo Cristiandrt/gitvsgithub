@@ -1,0 +1,18 @@
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  1) <!DOCTYPE html>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  2) <html lang="es">
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  3) <head>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  4)     <meta charset="UTF-8">
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  5)     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  6)     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  7)     <title>Primer Ejemplo en HTML</title>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  8) </head>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300  9) <body>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 10)     <h1>Titulo 1</h1>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 11)     <h2>Titulo 2</h2>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 12)     <h3>Titulo 3</h3>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 13)     <h4>Titulo 4</h4>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 14)     <h5>Titulo 5</h5>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 15)     <h6>Titulo 6</h6>    
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 16) <p>Argentina campeon del MUNDO!</p>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 17) </body>
+^bcfec76 (Cristian Duarte 2023-01-11 08:24:11 -0300 18) </html>
